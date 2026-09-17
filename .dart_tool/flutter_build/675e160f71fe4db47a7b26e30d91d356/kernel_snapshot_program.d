@@ -1,0 +1,1 @@
+/Users/zere/dev/week_2/.dart_tool/flutter_build/675e160f71fe4db47a7b26e30d91d356/app.dill: /Users/zere/dev/week_2/lib/main.dart /Users/zere/dev/week_2/lib/week_2/main.dart /Users/zere/dev/week_2/lib/week_2/data.dart /Users/zere/dev/week_2/lib/week_2/models.dart /Users/zere/dev/week_2/lib/week_2/catalogue.dart /Users/zere/dev/week_2/lib/week_2/shelf_state.dart
